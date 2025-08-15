@@ -1,0 +1,24 @@
+{
+  "num_cols": [
+    "Age",
+    "Weight",
+    "Height",
+    "Duration",
+    "Heart_Rate",
+    "Body_Temp",
+    "BMI"
+  ],
+  "cat_cols": [
+    "Gender"
+  ],
+  "feature_order": [
+    "Age",
+    "Weight",
+    "Height",
+    "Duration",
+    "Heart_Rate",
+    "Body_Temp",
+    "BMI",
+    "Gender"
+  ]
+}
